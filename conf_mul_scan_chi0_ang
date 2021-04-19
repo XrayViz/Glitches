@@ -1,0 +1,18 @@
+filename=mul_scan_chi0_data_ang.txt_glitches 
+#tolerance=0.1
+Emin = 10.
+Emax = 20.
+Estep = 0.005
+UCmin = 3.567
+UCmax = 3.570
+UCstep = 0.0001
+OMmin = 4.09
+OMmax = 4.11
+PHmin = 3.80
+PHmax = 3.82
+angStep = 0.01
+
+#UC: 3.57560, Omega: 4.105, Phi: 3.820, Aver.Sq.Dist: 5.53988eV
+
+#Shift of the 2theta angle by -0.9167 deg
+#BEST: UC: 3.56760, Omega: 4.110, Phi: 3.810, Aver.Sq.Dist: 1.21924eV
