@@ -12,3 +12,4 @@ nk_analit_refine_and_error.py - refining the orientation of the optical element 
 
 conf_mul_scan_chi0_ang - example configuration file for nk_fit_rev_conf_par_v1
 
+![alt text](plot_om0_phi0.gif?raw=true)
