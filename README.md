@@ -13,14 +13,18 @@ nk_analit_refine_and_error.py - refining the orientation of the optical element 
 conf_mul_scan_chi0_ang - example configuration file for nk_fit_rev_conf_par_v1
 
 Glitches, plot at ω=0° and φ=0°
+
 ![alt text](plot_om0_phi0.gif?raw=true "") 
 
 Glitches, reciprocal space at ω=0° and φ=0°
+
 ![alt text](reci_om0_phi0.gif?raw=true " ")
 
 Glitches, plot at ω=4° and φ=4°
+
 ![alt text](plot_om4_phi4.gif?raw=true " ") 
 
 Glitches, reciprocal space at ω=4° and φ=4°
+
 ![alt text](reci_om4_phi4.gif?raw=true " ")
 
